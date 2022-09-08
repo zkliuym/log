@@ -5,4 +5,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [As I Began to Love Myself](https://github.com/zkliuym/log/issues/2)--2022-09-08
 - [使用 Github issues 和 Actions 创建博客](https://github.com/zkliuym/log/issues/1)--2022-09-07
