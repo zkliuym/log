@@ -33,3 +33,8 @@ void MyMethod( T myarr )
 这个时候typename的作用就是告诉c++编译器，typename后面的字符串为一个类型名称，而不是成员函数或者成员变量，这个时候如果前面没有typename，编译器没有任何办法知道T::LengthType是一个类型还是一个成员名称(静态数据成员或者静态函数)，所以编译不能够通过。
 
 原文链接：https://blog.csdn.net/newbeixue/article/details/116591068
+
+
+---
+
+C++模板中关键字typename与class的区别https://blog.csdn.net/qq_45801299/article/details/112298619
